@@ -1,0 +1,3 @@
+*.pdf
+.git
+plots/*.png
